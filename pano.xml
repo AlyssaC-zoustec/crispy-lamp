@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node3" apprev="21009" appversion="7.1.10" hassounds="1">
+  <panorama id="node3">
+    <input levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" overlap="1" width="2048" levelbias="0.400" height="2048" leveltilesize="510" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level predecode="0" width="2048" height="2048" preload="0"/>
+      <level predecode="0" width="1024" height="1024" preload="0"/>
+      <level predecode="0" width="512" height="512" preload="0"/>
+      <level predecode="1" width="256" height="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max scaletofit="1" fov="140" tilt="90" fovstereographic="330" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata nodeid="node3" source="" copyright="" info="" latitude="24.468412" customnodeid="" altitude="476.00" datetime="1970/1/1 上午 12:00" title="default" heading="0" author="" tags="Downloads" longitude="120.951865" comment="" description=""/>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label textalpha="1" textcolor="0x000000" wordwrap="1" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" backgroundalpha="1" borderradius="1" height="20" borderalpha="1" background="1" border="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1" mode="0"/>
+      <hotspot description="" target="$fwd" tilt="-14.97" skinid="ht_node" url="{node1}" id="Point01" pan="-81.74" title=""/>
+      <hotspot description="&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d907.8757391983368!2d120.95167802390233!3d24.46802432905444!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1szh-TW!2stw!4v1753171205267!5m2!1szh-TW!2stw&quot; width=&quot;400&quot; height=&quot;300&quot; style=&quot;border:0;&quot; allowfullscreen=&quot;&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer-when-downgrade&quot;>&lt;/iframe>" target="" tilt="-12.69" skinid="ht_info" url="" id="Point02" pan="-345.71" title="汶水溪地圖"/>
+      <hotspot target="" tilt="-23.69" skinid="ht_node" pan="-83.47" title="游泳池" url="{node4}" id="Point03" distance="47.625" description=""/>
+      <hotspot description="汶水溪是苗栗縣泰安鄉的一條溪流，為後龍溪主流上游，發源於鹿場大山西南山谷，流經泰安、獅潭、大湖等鄉鎮，最終在汶水與大湖溪匯合後，改稱為後龍溪。 汶水溪以其清澈的溪水、豐富的生態和多樣的地形而聞名，是夏天熱門的溯溪地點。 汶水溪是苗栗縣泰安鄉的一條溪流，為後龍溪主流上游，發源於鹿場大山西南山谷，流經泰安、獅潭、大湖等鄉鎮，最終在汶水與大湖溪匯合後，改稱為後龍溪。 汶水溪以其清澈的溪水、豐富的生態和多樣的地形而聞名，是夏天熱門的溯溪地點。 汶水溪是苗栗縣泰安鄉的一條溪流，為後龍溪主流上游，發源於鹿場大山西南山谷，流經泰安、獅潭、大湖等鄉鎮，最終在汶水與大湖溪匯合後，改稱為後龍溪。 汶水溪以其清澈的溪水、豐富的生態和多樣的地形而聞名，是夏天熱門的溯溪地點。 汶水溪是苗栗縣泰安鄉的一條溪流，為後龍溪主流上游，發源於鹿場大山西南山谷，流經泰安、獅潭、大湖等鄉鎮，最終在汶水與大湖溪匯合後，改稱為後龍溪。 汶水溪以其清澈的溪水、豐富的生態和多樣的地形而聞名，是夏天熱門的溯溪地點。 汶水溪是苗栗縣泰安鄉的一條溪流，為後龍溪主流上游，發源於鹿場大山西南山谷，流經泰安、獅潭、大湖等鄉鎮，最終在汶水與大湖溪匯合後，改稱為後龍溪。 汶水溪以其清澈的溪水、豐富的生態和多樣的地形而聞名，是夏天熱門的溯溪地點。 " target="" tilt="-12.96" skinid="ht_info" url="" id="Point04" pan="-350.69" title="汶水溪介紹"/>
+      <polyhotspot target="" url="" id="Poly01" title="上尾公路" description="苗栗泰安沿著汶水溪是上島公路&#xa;盡頭有水雲吊橋，泰安警光山莊&#xa;這邊也是水雲三星的上島山＜鳥嘴山＞和虎山的登山口">
+        <polystring>-339.36/-5.35|-339.33/-6.14|-19.6/-6.58|-19.41/-5.69|-1.92/-5.99</polystring>
+      </polyhotspot>
+      <polyhotspot target="" url="" id="Poly02" title="鳥嘴山" description="">
+        <polystring>-12.67/26.38|-351.56/14.47|-346.43/8.3|-359/2.56|-11.64/-0.49|-18.16/15.51</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" zoomout="0" zoomafterinfov="140" zoomspeed="2" zoomin="0" zoomafteroutfov="40" type="crossdissolve" delay="none" blendtime="1" blendcolor="0x000000" softedge="0" zoomfov="40" enabled="1"/>
+    <animation clipsrandom="0" useinautorotation="1" animsequence="Animation01" syncanimationwithvideo="0">
+      <clip transitiontype="0" cliptitle="Clip01" nextcliptitle="Clip01" length="40" nextclipstartview="0/0/137.344/4" animtitle="Animation01" nextclipnodeid="node4" nodeid="" animtype="0">
+        <keyframe property="0" transitiontime="0" additionaltrackid="" type="0" value="2.62795" time="0" valuestring=""/>
+        <keyframe property="1" transitiontime="0" additionaltrackid="" type="0" value="-2.84493" time="0" valuestring=""/>
+        <keyframe property="2" transitiontime="0" additionaltrackid="" type="0" value="100" time="0" valuestring=""/>
+        <keyframe property="3" transitiontime="0" additionaltrackid="" type="0" value="4" time="0" valuestring=""/>
+        <keyframe bezieroutvalue="-25.9828" type="2" property="0" time="17" transitiontime="0" bezierintime="11.9" additionaltrackid="" bezierouttime="23.9" bezierinvalue="-25.9828" value="-25.9828" valuestring=""/>
+        <keyframe bezieroutvalue="-1.27382" type="2" property="1" time="17" transitiontime="0" bezierintime="11.9" additionaltrackid="" bezierouttime="23.9" bezierinvalue="-1.27382" value="-1.27382" valuestring=""/>
+        <keyframe bezieroutvalue="100" type="2" property="2" time="17" transitiontime="0" bezierintime="11.9" additionaltrackid="" bezierouttime="23.9" bezierinvalue="100" value="100" valuestring=""/>
+        <keyframe bezieroutvalue="-83.0607" type="2" property="0" time="40" transitiontime="0" bezierintime="33.1" additionaltrackid="" bezierouttime="10040" bezierinvalue="-83.0607" value="-83.0607" valuestring=""/>
+        <keyframe bezieroutvalue="-15.9796" type="2" property="1" time="40" transitiontime="0" bezierintime="33.1" additionaltrackid="" bezierouttime="10040" bezierinvalue="-15.9796" value="-15.9796" valuestring=""/>
+        <keyframe bezieroutvalue="100" type="2" property="2" time="40" transitiontime="0" bezierintime="33.1" additionaltrackid="" bezierouttime="10040" bezierinvalue="100" value="100" valuestring=""/>
+      </clip>
+    </animation>
+    <control sensitivity="8" contextprojections="0" rubberband="0" invertwheel="0" dblclickfullscreen="0" contextfullscreen="1" contextvr="1" speedwheel="1" lockedwheel="0" hideabout="0" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" zoomcentercursor="1" lockedkeyboardzoom="0" simulatemass="1"/>
+    <vr skinbuttonposition="0" defaulthsscale="100" toggleskinbutton="1"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" overlap="1" width="2048" levelbias="0.400" height="2048" leveltilesize="510" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level predecode="0" width="2048" height="2048" preload="0"/>
+      <level predecode="0" width="1024" height="1024" preload="0"/>
+      <level predecode="0" width="512" height="512" preload="0"/>
+      <level predecode="1" width="256" height="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max scaletofit="1" fov="140" tilt="90" fovstereographic="330" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata nodeid="node4" source="" copyright="" info="" latitude="24.468093" customnodeid="" altitude="483.00" datetime="1970/1/1 上午 12:00" title="default" heading="0" author="" tags="Downloads" longitude="120.951551" comment="" description=""/>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label textalpha="1" textcolor="0x000000" wordwrap="1" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" backgroundalpha="1" borderradius="1" height="20" borderalpha="1" background="1" border="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1" mode="0"/>
+      <hotspot description="" target="22.7/0.0/100.0" tilt="-41.18" skinid="ht_node" url="{node1}" id="Point01" pan="-337.29" title="門口"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" zoomout="0" zoomafterinfov="140" zoomspeed="2" zoomin="0" zoomafteroutfov="40" type="crossdissolve" delay="none" blendtime="1" blendcolor="0x000000" softedge="0" zoomfov="40" enabled="1"/>
+    <animation clipsrandom="0" useinautorotation="1" animsequence="Animation01" syncanimationwithvideo="0">
+      <clip transitiontype="0" cliptitle="Clip01" nextcliptitle="Clip01" length="40" nextclipstartview="86.6971/4.51732/100/4" animtitle="Animation01" nextclipnodeid="node1" nodeid="" animtype="0">
+        <keyframe property="0" transitiontime="0" additionaltrackid="" type="0" value="0" time="0" valuestring=""/>
+        <keyframe property="1" transitiontime="0" additionaltrackid="" type="0" value="0" time="0" valuestring=""/>
+        <keyframe property="2" transitiontime="0" additionaltrackid="" type="0" value="137.344" time="0" valuestring=""/>
+        <keyframe property="3" transitiontime="0" additionaltrackid="" type="0" value="4" time="0" valuestring=""/>
+        <keyframe bezieroutvalue="-2.29088" type="2" property="0" time="20" transitiontime="0" bezierintime="14" additionaltrackid="" bezierouttime="26" bezierinvalue="-2.29088" value="-2.29088" valuestring=""/>
+        <keyframe bezieroutvalue="-18.7743" type="2" property="1" time="20" transitiontime="0" bezierintime="14" additionaltrackid="" bezierouttime="26" bezierinvalue="-18.7743" value="-18.7743" valuestring=""/>
+        <keyframe bezieroutvalue="126.967" type="2" property="2" time="20" transitiontime="0" bezierintime="14" additionaltrackid="" bezierouttime="26" bezierinvalue="126.967" value="126.967" valuestring=""/>
+        <keyframe bezieroutvalue="-2.29088" type="2" property="0" time="40" transitiontime="0" bezierintime="34" additionaltrackid="" bezierouttime="10040" bezierinvalue="-2.29088" value="-2.29088" valuestring=""/>
+        <keyframe bezieroutvalue="-18.7743" type="2" property="1" time="40" transitiontime="0" bezierintime="34" additionaltrackid="" bezierouttime="10040" bezierinvalue="-18.7743" value="-18.7743" valuestring=""/>
+        <keyframe bezieroutvalue="108.504" type="2" property="2" time="40" transitiontime="0" bezierintime="34" additionaltrackid="" bezierouttime="10040" bezierinvalue="108.504" value="108.504" valuestring=""/>
+      </clip>
+    </animation>
+    <control sensitivity="8" contextprojections="0" rubberband="0" invertwheel="0" dblclickfullscreen="0" contextfullscreen="1" contextvr="1" speedwheel="1" lockedwheel="0" hideabout="0" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" zoomcentercursor="1" lockedkeyboardzoom="0" simulatemass="1"/>
+    <vr skinbuttonposition="0" defaulthsscale="100" toggleskinbutton="1"/>
+  </panorama>
+  <panorama id="node1">
+    <input levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" overlap="1" width="1950" levelbias="0.400" height="1950" leveltilesize="510" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level predecode="0" width="1950" height="1950" preload="0"/>
+      <level predecode="0" width="975" height="975" preload="0"/>
+      <level predecode="1" width="487" height="487" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max scaletofit="1" fov="140" tilt="90" fovstereographic="330" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata nodeid="node1" source="" copyright="" info="" latitude="" customnodeid="" datetime="2023/3/4 上午 08:18" title="" heading="0" author="" tags="Downloads" longitude="" comment="" description=""/>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label textalpha="1" textcolor="0x000000" wordwrap="1" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" backgroundalpha="1" borderradius="1" height="20" borderalpha="1" background="1" border="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1" mode="0"/>
+      <hotspot description="" target="$fwd" tilt="-0.27" skinid="ht_node" url="{node2}" id="Point01" pan="-335.2" title="典藏區"/>
+      <hotspot description="" target="_blank" tilt="19.01" skinid="ht_url" url="https://www.youtube.com/watch?v=OWwyKhdX4-8" id="Point02" pan="-264" title="苗栗泰安"/>
+      <hotspot description="" target="$fwd" tilt="-10.22" skinid="ht_node" url="{node3}" id="Point03" pan="-75.41" title=""/>
+      <hotspot description="請問我能幫你什麼?" target="" tilt="-17.76" skinid="ht_image" url="images/gif.gif" id="Point04" pan="-267.13" title="呼叫服務人員"/>
+      <hotspot description="" target="" tilt="-21.67" skinid="ht_video_youtube" url="HF9z8_TD2zQ" id="Point05" pan="-153.66" title="倒水!"/>
+      <polyhotspot target="" url="" id="Poly02" title="倒水!!" description="">
+        <polystring>-154.48/-16.88|-156.13/-17.38|-156.54/-19.33|-154.04/-19.02|-152.83/-18.66|-152.76/-16.88</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <image rotz="-2.801" fov="13.094" tilt="10.187" clickmode="4" roty="0.210" pan="111.518" rotx="34.403" popoutscaling="100" width="263" handcursor="1" stretch="1.481" height="215" popbackmode="0" id="Element01" hidepinned="0">
+        <source url="media/ 2025-07-19 153000-1.png"/>
+      </image>
+      <video rotz="2.680" fov="9.450" pan="79.730" rotx="-42.060" field="90.000" width="886" nodechangekeep="0" stretch="1.995" tiltsize="10.000" poster="media/ 2025-07-21 073143_preview.jpg" tilt="7.830" clickmode="1" roty="4.810" loop="1" level="1.000" popoutscaling="80" handcursor="1" height="462" popbackmode="2" pansize="10.000" id="Element02" mode="2" startmutedmobile="1" ambientlevel="0.000" hidepinned="0">
+        <source url="media/video.mp4"/>
+      </video>
+    </media>
+    <transition zoomoutpause="1" zoomout="0" zoomafterinfov="140" zoomspeed="2" zoomin="0" zoomafteroutfov="40" type="crossdissolve" delay="none" blendtime="1" blendcolor="0x000000" softedge="0" zoomfov="40" enabled="1"/>
+    <animation clipsrandom="0" useinautorotation="1" animsequence="Animation01" syncanimationwithvideo="0">
+      <clip transitiontype="0" cliptitle="Clip01" nextcliptitle="Clip01" length="80" nextclipstartview="0/0/136.926/4" animtitle="Animation01" nextclipnodeid="node2" nodeid="" animtype="0">
+        <keyframe property="0" transitiontime="0" additionaltrackid="" type="0" value="86.6971" time="0" valuestring=""/>
+        <keyframe property="1" transitiontime="0" additionaltrackid="" type="0" value="4.51732" time="0" valuestring=""/>
+        <keyframe property="2" transitiontime="0" additionaltrackid="" type="0" value="100" time="0" valuestring=""/>
+        <keyframe property="3" transitiontime="0" additionaltrackid="" type="0" value="4" time="0" valuestring=""/>
+        <keyframe bezieroutvalue="146.318" type="2" property="0" time="25" transitiontime="0" bezierintime="17.5" additionaltrackid="" bezierouttime="35.5" bezierinvalue="146.318" value="146.318" valuestring=""/>
+        <keyframe bezieroutvalue="-3.03471" type="2" property="1" time="25" transitiontime="0" bezierintime="17.5" additionaltrackid="" bezierouttime="35.5" bezierinvalue="-3.03471" value="-3.03471" valuestring=""/>
+        <keyframe bezieroutvalue="100" type="2" property="2" time="25" transitiontime="0" bezierintime="17.5" additionaltrackid="" bezierouttime="35.5" bezierinvalue="100" value="100" valuestring=""/>
+        <keyframe bezieroutvalue="44.7557" type="2" property="0" time="60" transitiontime="0" bezierintime="49.5" additionaltrackid="" bezierouttime="66" bezierinvalue="44.7557" value="44.7557" valuestring=""/>
+        <keyframe bezieroutvalue="5.08553" type="2" property="1" time="60" transitiontime="0" bezierintime="49.5" additionaltrackid="" bezierouttime="66" bezierinvalue="5.08553" value="5.08553" valuestring=""/>
+        <keyframe bezieroutvalue="100" type="2" property="2" time="60" transitiontime="0" bezierintime="49.5" additionaltrackid="" bezierouttime="66" bezierinvalue="100" value="100" valuestring=""/>
+        <keyframe bezieroutvalue="44.7557" type="2" property="0" time="80" transitiontime="0" bezierintime="74" additionaltrackid="" bezierouttime="10080" bezierinvalue="44.7557" value="44.7557" valuestring=""/>
+        <keyframe bezieroutvalue="5.08553" type="2" property="1" time="80" transitiontime="0" bezierintime="74" additionaltrackid="" bezierouttime="10080" bezierinvalue="5.08553" value="5.08553" valuestring=""/>
+        <keyframe bezieroutvalue="85.4589" type="2" property="2" time="80" transitiontime="0" bezierintime="74" additionaltrackid="" bezierouttime="10080" bezierinvalue="85.4589" value="85.4589" valuestring=""/>
+      </clip>
+      <clip transitiontype="0" cliptitle="Clip01" nextcliptitle="Clip01" length="80" nextclipstartview="0/0/136.926/4" animtitle="111" nextclipnodeid="node2" nodeid="" animtype="0">
+        <keyframe property="0" transitiontime="0" additionaltrackid="" type="0" value="86.6971" time="0" valuestring=""/>
+        <keyframe property="1" transitiontime="0" additionaltrackid="" type="0" value="4.51732" time="0" valuestring=""/>
+        <keyframe property="2" transitiontime="0" additionaltrackid="" type="0" value="100" time="0" valuestring=""/>
+        <keyframe property="3" transitiontime="0" additionaltrackid="" type="0" value="4" time="0" valuestring=""/>
+        <keyframe bezieroutvalue="146.318" type="2" property="0" time="25" transitiontime="0" bezierintime="17.5" additionaltrackid="" bezierouttime="35.5" bezierinvalue="146.318" value="146.318" valuestring=""/>
+        <keyframe bezieroutvalue="-3.03471" type="2" property="1" time="25" transitiontime="0" bezierintime="17.5" additionaltrackid="" bezierouttime="35.5" bezierinvalue="-3.03471" value="-3.03471" valuestring=""/>
+        <keyframe bezieroutvalue="100" type="2" property="2" time="25" transitiontime="0" bezierintime="17.5" additionaltrackid="" bezierouttime="35.5" bezierinvalue="100" value="100" valuestring=""/>
+        <keyframe bezieroutvalue="44.7557" type="2" property="0" time="60" transitiontime="0" bezierintime="49.5" additionaltrackid="" bezierouttime="66" bezierinvalue="44.7557" value="44.7557" valuestring=""/>
+        <keyframe bezieroutvalue="5.08553" type="2" property="1" time="60" transitiontime="0" bezierintime="49.5" additionaltrackid="" bezierouttime="66" bezierinvalue="5.08553" value="5.08553" valuestring=""/>
+        <keyframe bezieroutvalue="100" type="2" property="2" time="60" transitiontime="0" bezierintime="49.5" additionaltrackid="" bezierouttime="66" bezierinvalue="100" value="100" valuestring=""/>
+        <keyframe bezieroutvalue="44.7557" type="2" property="0" time="80" transitiontime="0" bezierintime="74" additionaltrackid="" bezierouttime="10080" bezierinvalue="44.7557" value="44.7557" valuestring=""/>
+        <keyframe bezieroutvalue="5.08553" type="2" property="1" time="80" transitiontime="0" bezierintime="74" additionaltrackid="" bezierouttime="10080" bezierinvalue="5.08553" value="5.08553" valuestring=""/>
+        <keyframe bezieroutvalue="85.4589" type="2" property="2" time="80" transitiontime="0" bezierintime="74" additionaltrackid="" bezierouttime="10080" bezierinvalue="85.4589" value="85.4589" valuestring=""/>
+      </clip>
+    </animation>
+    <control sensitivity="8" contextprojections="0" rubberband="0" invertwheel="0" dblclickfullscreen="0" contextfullscreen="1" contextvr="1" speedwheel="1" lockedwheel="0" hideabout="0" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" zoomcentercursor="1" lockedkeyboardzoom="0" simulatemass="1"/>
+    <vr skinbuttonposition="0" defaulthsscale="100" toggleskinbutton="1"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" overlap="1" width="1948" levelbias="0.400" height="1948" leveltilesize="510" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level predecode="0" width="1948" height="1948" preload="0"/>
+      <level predecode="0" width="974" height="974" preload="0"/>
+      <level predecode="1" width="487" height="487" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max scaletofit="1" fov="140" tilt="90" fovstereographic="330" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata nodeid="node2" source="" copyright="" info="" latitude="" customnodeid="" datetime="2023/3/4 上午 08:15" title="" heading="0" author="" tags="Downloads" longitude="" comment="" description=""/>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label textalpha="1" textcolor="0x000000" wordwrap="1" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" backgroundalpha="1" borderradius="1" height="20" borderalpha="1" background="1" border="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1" mode="0"/>
+      <hotspot description="" target="$fwd" tilt="-17.33" skinid="ht_node" url="{node1}" id="Point01" pan="-172.61" title="櫃檯區"/>
+      <hotspot description="&lt;iframe src=&quot;https://www.chatzutang.com/pages/2025shower-all-items?utm_source=google&amp;utm_medium=cpc&amp;gad_source=1&amp;gad_campaignid=20263217251&amp;gbraid=0AAAAADmfneKP5f2af08VFsyKklPE9xfcm&amp;gclid=Cj0KCQjwhO3DBhDkARIsANxrhTrsJavwdWs2pqwFb5JH1db7IGW070Q5CLKq524GLg8ZwVfcWSAfpLgaArzaEALw_wcB&quot; &#xa;    width=&quot;400&quot; &#xa;    height=&quot;300&quot; &#xa;    style=&quot;border: none;&quot; &#xa;    allowfullscreen>&#xa;&lt;/iframe>" target="" tilt="-12.85" skinid="ht_info" url="" id="Point02" pan="-241.59" title="茶籽堂產品介紹"/>
+      <hotspot description="" target="" tilt="-13.19" skinid="ht_node" url="{node1}" id="Point03" pan="-270.51" title=""/>
+    </hotspots>
+    <media>
+      <sound tilt="-12.070" pan="-250.770" loop="-1" level="1.000" field="90.000" nodechangekeep="0" pansize="10.000" id="voice01" mode="1" startmutedmobile="0" tiltsize="10.000" ambientlevel="0.000">
+        <source url="media/sound.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomoutpause="1" zoomout="0" zoomafterinfov="140" zoomspeed="2" zoomin="0" zoomafteroutfov="40" type="crossdissolve" delay="none" blendtime="1" blendcolor="0x000000" softedge="0" zoomfov="40" enabled="1"/>
+    <animation clipsrandom="0" useinautorotation="1" animsequence="Animation01" syncanimationwithvideo="0">
+      <clip transitiontype="0" cliptitle="Clip01" nextcliptitle="Clip01" length="90" nextclipstartview="2.62795/-2.84493/100/4" animtitle="Animation01" nextclipnodeid="node3" nodeid="" animtype="0">
+        <keyframe property="0" transitiontime="0" additionaltrackid="" type="0" value="0" time="0" valuestring=""/>
+        <keyframe property="1" transitiontime="0" additionaltrackid="" type="0" value="0" time="0" valuestring=""/>
+        <keyframe property="2" transitiontime="0" additionaltrackid="" type="0" value="136.926" time="0" valuestring=""/>
+        <keyframe property="3" transitiontime="0" additionaltrackid="" type="0" value="4" time="0" valuestring=""/>
+        <keyframe bezieroutvalue="0" type="2" property="0" time="10" transitiontime="0" bezierintime="7" additionaltrackid="" bezierouttime="16" bezierinvalue="0" value="0" valuestring=""/>
+        <keyframe bezieroutvalue="0" type="2" property="1" time="10" transitiontime="0" bezierintime="7" additionaltrackid="" bezierouttime="16" bezierinvalue="0" value="0" valuestring=""/>
+        <keyframe bezieroutvalue="108.174" type="2" property="2" time="10" transitiontime="0" bezierintime="7" additionaltrackid="" bezierouttime="16" bezierinvalue="108.174" value="108.174" valuestring=""/>
+        <keyframe bezieroutvalue="21.8828" type="2" property="0" time="30" transitiontime="0" bezierintime="24" additionaltrackid="" bezierouttime="36" bezierinvalue="21.8828" value="21.8828" valuestring=""/>
+        <keyframe bezieroutvalue="1.91292" type="2" property="1" time="30" transitiontime="0" bezierintime="24" additionaltrackid="" bezierouttime="36" bezierinvalue="1.91292" value="1.91292" valuestring=""/>
+        <keyframe bezieroutvalue="108.174" type="2" property="2" time="30" transitiontime="0" bezierintime="24" additionaltrackid="" bezierouttime="36" bezierinvalue="108.174" value="108.174" valuestring=""/>
+        <keyframe bezieroutvalue="80.1644" type="2" property="0" time="50" transitiontime="0" bezierintime="44" additionaltrackid="" bezierouttime="62" bezierinvalue="80.1644" value="80.1644" valuestring=""/>
+        <keyframe bezieroutvalue="-2.44009" type="2" property="1" time="50" transitiontime="0" bezierintime="44" additionaltrackid="" bezierouttime="62" bezierinvalue="-2.44009" value="-2.44009" valuestring=""/>
+        <keyframe bezieroutvalue="108.174" type="2" property="2" time="50" transitiontime="0" bezierintime="44" additionaltrackid="" bezierouttime="62" bezierinvalue="108.174" value="108.174" valuestring=""/>
+        <keyframe bezieroutvalue="145.238" type="2" property="0" time="90" transitiontime="0" bezierintime="78" additionaltrackid="" bezierouttime="90" bezierinvalue="145.238" value="145.238" valuestring=""/>
+        <keyframe bezieroutvalue="-7.27533" type="2" property="1" time="90" transitiontime="0" bezierintime="78" additionaltrackid="" bezierouttime="90" bezierinvalue="-7.27533" value="-7.27533" valuestring=""/>
+        <keyframe bezieroutvalue="108.174" type="2" property="2" time="90" transitiontime="0" bezierintime="78" additionaltrackid="" bezierouttime="90" bezierinvalue="108.174" value="108.174" valuestring=""/>
+        <keyframe bezieroutvalue="0" type="1" property="0" time="90" transitiontime="0" bezierintime="90" additionaltrackid="" bezierouttime="0" bezierinvalue="0" value="0" valuestring=""/>
+        <keyframe bezieroutvalue="0" type="1" property="1" time="90" transitiontime="0" bezierintime="90" additionaltrackid="" bezierouttime="0" bezierinvalue="0" value="0" valuestring=""/>
+        <keyframe bezieroutvalue="0" type="1" property="2" time="90" transitiontime="0" bezierintime="90" additionaltrackid="" bezierouttime="0" bezierinvalue="136.926" value="136.926" valuestring=""/>
+      </clip>
+      <clip transitiontype="0" cliptitle="Clip01" nextcliptitle="Clip01" length="90" nextclipstartview="86.6971/4.51732/100/4" animtitle="111" nextclipnodeid="node1" nodeid="" animtype="0">
+        <keyframe property="0" transitiontime="0" additionaltrackid="" type="0" value="0" time="0" valuestring=""/>
+        <keyframe property="1" transitiontime="0" additionaltrackid="" type="0" value="0" time="0" valuestring=""/>
+        <keyframe property="2" transitiontime="0" additionaltrackid="" type="0" value="136.926" time="0" valuestring=""/>
+        <keyframe property="3" transitiontime="0" additionaltrackid="" type="0" value="4" time="0" valuestring=""/>
+        <keyframe bezieroutvalue="0" type="2" property="0" time="10" transitiontime="0" bezierintime="7" additionaltrackid="" bezierouttime="16" bezierinvalue="0" value="0" valuestring=""/>
+        <keyframe bezieroutvalue="0" type="2" property="1" time="10" transitiontime="0" bezierintime="7" additionaltrackid="" bezierouttime="16" bezierinvalue="0" value="0" valuestring=""/>
+        <keyframe bezieroutvalue="108.174" type="2" property="2" time="10" transitiontime="0" bezierintime="7" additionaltrackid="" bezierouttime="16" bezierinvalue="108.174" value="108.174" valuestring=""/>
+        <keyframe bezieroutvalue="21.8828" type="2" property="0" time="30" transitiontime="0" bezierintime="24" additionaltrackid="" bezierouttime="36" bezierinvalue="21.8828" value="21.8828" valuestring=""/>
+        <keyframe bezieroutvalue="1.91292" type="2" property="1" time="30" transitiontime="0" bezierintime="24" additionaltrackid="" bezierouttime="36" bezierinvalue="1.91292" value="1.91292" valuestring=""/>
+        <keyframe bezieroutvalue="108.174" type="2" property="2" time="30" transitiontime="0" bezierintime="24" additionaltrackid="" bezierouttime="36" bezierinvalue="108.174" value="108.174" valuestring=""/>
+        <keyframe bezieroutvalue="80.1644" type="2" property="0" time="50" transitiontime="0" bezierintime="44" additionaltrackid="" bezierouttime="62" bezierinvalue="80.1644" value="80.1644" valuestring=""/>
+        <keyframe bezieroutvalue="-2.44009" type="2" property="1" time="50" transitiontime="0" bezierintime="44" additionaltrackid="" bezierouttime="62" bezierinvalue="-2.44009" value="-2.44009" valuestring=""/>
+        <keyframe bezieroutvalue="108.174" type="2" property="2" time="50" transitiontime="0" bezierintime="44" additionaltrackid="" bezierouttime="62" bezierinvalue="108.174" value="108.174" valuestring=""/>
+        <keyframe bezieroutvalue="145.238" type="2" property="0" time="90" transitiontime="0" bezierintime="78" additionaltrackid="" bezierouttime="90" bezierinvalue="145.238" value="145.238" valuestring=""/>
+        <keyframe bezieroutvalue="-7.27533" type="2" property="1" time="90" transitiontime="0" bezierintime="78" additionaltrackid="" bezierouttime="90" bezierinvalue="-7.27533" value="-7.27533" valuestring=""/>
+        <keyframe bezieroutvalue="108.174" type="2" property="2" time="90" transitiontime="0" bezierintime="78" additionaltrackid="" bezierouttime="90" bezierinvalue="108.174" value="108.174" valuestring=""/>
+        <keyframe bezieroutvalue="0" type="1" property="0" time="90" transitiontime="0" bezierintime="90" additionaltrackid="" bezierouttime="0" bezierinvalue="0" value="0" valuestring=""/>
+        <keyframe bezieroutvalue="0" type="1" property="1" time="90" transitiontime="0" bezierintime="90" additionaltrackid="" bezierouttime="0" bezierinvalue="0" value="0" valuestring=""/>
+        <keyframe bezieroutvalue="0" type="1" property="2" time="90" transitiontime="0" bezierintime="90" additionaltrackid="" bezierouttime="0" bezierinvalue="136.926" value="136.926" valuestring=""/>
+      </clip>
+    </animation>
+    <control sensitivity="8" contextprojections="0" rubberband="0" invertwheel="0" dblclickfullscreen="0" contextfullscreen="1" contextvr="1" speedwheel="1" lockedwheel="0" hideabout="0" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" zoomcentercursor="1" lockedkeyboardzoom="0" simulatemass="1"/>
+    <vr skinbuttonposition="0" defaulthsscale="100" toggleskinbutton="1"/>
+  </panorama>
+  <masternode>
+    <userdata comment="" copyright="" author="" tags="" title="" description=""/>
+    <animationsequences>
+      <sequence title="Animation01">
+        <sequenceelement startview="2.62795/-2.84493/100/4" cliptitle="Clip01" index="0" nodeid="node3"/>
+        <sequenceelement startview="0/0/137.344/4" cliptitle="Clip01" index="1" nodeid="node4"/>
+        <sequenceelement startview="86.6971/4.51732/100/4" cliptitle="Clip01" index="2" nodeid="node1"/>
+        <sequenceelement startview="0/0/136.926/4" cliptitle="Clip01" index="3" nodeid="node2"/>
+      </sequence>
+      <sequence title="111">
+        <sequenceelement startview="86.6971/4.51732/100/4" cliptitle="Clip01" index="0" nodeid="node1"/>
+        <sequenceelement startview="0/0/136.926/4" cliptitle="Clip01" index="1" nodeid="node2"/>
+      </sequence>
+    </animationsequences>
+  </masternode>
+</tour>
